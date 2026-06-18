@@ -1,0 +1,458 @@
+alias,title,id,name,review_count,rating,price,coordinates_latitude,coordinates_longitude,location_address1,categoria_estandarizada,rating_ponderado
+newamerican,New American,qjnpkS8yZO8xcyEIy5OU9A,Girl & The Goat,10667,4.4,$$$,41.88419277030351,-87.64794613195826,809 W Randolph,Carnes,4.398794901905995
+bars,Bars,qjnpkS8yZO8xcyEIy5OU9A,Girl & The Goat,10667,4.4,$$$,41.88419277030351,-87.64794613195826,809 W Randolph,Otro,4.398794901905995
+bakeries,Bakeries,qjnpkS8yZO8xcyEIy5OU9A,Girl & The Goat,10667,4.4,$$$,41.88419277030351,-87.64794613195826,809 W Randolph,Otro,4.398794901905995
+tapasmallplates,Tapas/Small Plates,boE4Ahsssqic7o5wQLI04w,The Purple Pig,8984,4.3,$$$,41.890694,-87.624782,444 N Michigan Ave,Carnes,4.303853086206689
+mediterranean,Mediterranean,boE4Ahsssqic7o5wQLI04w,The Purple Pig,8984,4.3,$$$,41.890694,-87.624782,444 N Michigan Ave,Vegetariano/Vegano,4.303853086206689
+newamerican,New American,boE4Ahsssqic7o5wQLI04w,The Purple Pig,8984,4.3,$$$,41.890694,-87.624782,444 N Michigan Ave,Carnes,4.303853086206689
+newamerican,New American,riT822EnU7y_5eCuJsd9sA,Cindy's Rooftop,2812,4.1,$$$,41.8816894031196,-87.6250061730162,12 S Michigan Ave,Carnes,4.1412266514445175
+seafood,Seafood,riT822EnU7y_5eCuJsd9sA,Cindy's Rooftop,2812,4.1,$$$,41.8816894031196,-87.6250061730162,12 S Michigan Ave,Mariscos/Pescado,4.1412266514445175
+breakfast_brunch,Breakfast & Brunch,riT822EnU7y_5eCuJsd9sA,Cindy's Rooftop,2812,4.1,$$$,41.8816894031196,-87.6250061730162,12 S Michigan Ave,Carnes,4.1412266514445175
+newamerican,New American,PZe0q_153VHUnaR-8dOTJg,The Dearborn,2739,4.4,$$,41.8842528,-87.6293151,145 N Dearborn St,Carnes,4.395845220618785
+breakfast_brunch,Breakfast & Brunch,PZe0q_153VHUnaR-8dOTJg,The Dearborn,2739,4.4,$$,41.8842528,-87.6293151,145 N Dearborn St,Carnes,4.395845220618785
+beer_and_wine,"Beer, Wine & Spirits",PZe0q_153VHUnaR-8dOTJg,The Dearborn,2739,4.4,$$,41.8842528,-87.6293151,145 N Dearborn St,Otro,4.395845220618785
+italian,Italian,cgIuo3geaxw1Sfhbqm5qTA,Alla Vita,813,4.4,$$$,41.88468,-87.642322,564 W Randolph St,Vegetariano/Vegano,4.389750700368807
+italian,Italian,GZsrGq6H8CQ4YlGtE_Bm0Q,Ciccio Mio,632,4.7,$$$,41.8892649696079,-87.63521477367367,226 W Kinzie,Vegetariano/Vegano,4.555603065003748
+wine_bars,Wine Bars,VPJk-SEWSWS_nGoQvM-COw,Penumbra,1029,4.8,$$$,41.924459,-87.710898,3309 W Fullerton Ave,Otro,4.6603941593095115
+seafood,Seafood,VPJk-SEWSWS_nGoQvM-COw,Penumbra,1029,4.8,$$$,41.924459,-87.710898,3309 W Fullerton Ave,Mariscos/Pescado,4.6603941593095115
+steak,Steakhouses,VPJk-SEWSWS_nGoQvM-COw,Penumbra,1029,4.8,$$$,41.924459,-87.710898,3309 W Fullerton Ave,Carnes,4.6603941593095115
+cocktailbars,Cocktail Bars,gzhkdb6YoiFm5s3vriG1AA,Gretel,456,4.5,$$,41.917275,-87.698577,2833 W Armitage Ave,Otro,4.433622039314062
+newamerican,New American,gzhkdb6YoiFm5s3vriG1AA,Gretel,456,4.5,$$,41.917275,-87.698577,2833 W Armitage Ave,Carnes,4.433622039314062
+speakeasies,Speakeasies,gzhkdb6YoiFm5s3vriG1AA,Gretel,456,4.5,$$,41.917275,-87.698577,2833 W Armitage Ave,Otro,4.433622039314062
+mediterranean,Mediterranean,tuJraaFffIS_JNK_4ZqGTA,Ema,1919,4.3,$$,41.890964390624795,-87.63090253497006,74 W Illinois St,Vegetariano/Vegano,4.315106519050948
+tapasmallplates,Tapas/Small Plates,tuJraaFffIS_JNK_4ZqGTA,Ema,1919,4.3,$$,41.890964390624795,-87.63090253497006,74 W Illinois St,Carnes,4.315106519050948
+salad,Salad,tuJraaFffIS_JNK_4ZqGTA,Ema,1919,4.3,$$,41.890964390624795,-87.63090253497006,74 W Illinois St,Vegetariano/Vegano,4.315106519050948
+tradamerican,American,1BHgaf25FpVSOXFpZF0pYw,Trivoli Tavern,961,4.5,$$,41.8837221888722,-87.64903867652058,114 N Green St,Carnes,4.456565824492979
+breweries,Breweries,okaqMJEoHfHblpKz9Q-CMA,The Perch,600,4.4,$$,41.90348,-87.676221,1932 W Division,Otro,4.387766063258402
+newamerican,New American,okaqMJEoHfHblpKz9Q-CMA,The Perch,600,4.4,$$,41.90348,-87.676221,1932 W Division,Carnes,4.387766063258402
+thai,Thai,8N3GMu-AhVvJMzQifkNemg,Crying Tiger,173,4.2,,41.88990307515616,-87.6298989,51 W Hubbard St,Vegetariano/Vegano,4.328592376796795
+steak,Steakhouses,apyIymDFbUK7u-Y3V5kmkA,Bavette's Bar & Boeuf,3501,4.5,$$$$,41.889295011779424,-87.63489302317039,218 W Kinzie,Carnes,4.484139632487938
+seafood,Seafood,apyIymDFbUK7u-Y3V5kmkA,Bavette's Bar & Boeuf,3501,4.5,$$$$,41.889295011779424,-87.63489302317039,218 W Kinzie,Mariscos/Pescado,4.484139632487938
+bars,Bars,apyIymDFbUK7u-Y3V5kmkA,Bavette's Bar & Boeuf,3501,4.5,$$$$,41.889295011779424,-87.63489302317039,218 W Kinzie,Otro,4.484139632487938
+seafood,Seafood,Z8K7SVH-B7ZVAVD9aFIK8w,Bar Mar,625,4.3,$$$,41.883835,-87.6372458,120 N Wacker Dr,Mariscos/Pescado,4.332482372963772
+cocktailbars,Cocktail Bars,Z8K7SVH-B7ZVAVD9aFIK8w,Bar Mar,625,4.3,$$$,41.883835,-87.6372458,120 N Wacker Dr,Otro,4.332482372963772
+bars,Bars,xoi7Cw7FoknAx5p880RtWQ,Au Cheval,9492,4.4,$$,41.88466,-87.647668,800 W Randolph St,Otro,4.398653189510033
+burgers,Burgers,xoi7Cw7FoknAx5p880RtWQ,Au Cheval,9492,4.4,$$,41.88466,-87.647668,800 W Randolph St,Carnes,4.398653189510033
+tradamerican,American,xoi7Cw7FoknAx5p880RtWQ,Au Cheval,9492,4.4,$$,41.88466,-87.647668,800 W Randolph St,Carnes,4.398653189510033
+italian,Italian,1Q7RL7Hc63wKa2A9ec3zXw,Il Porcellino,1755,4.4,$$,41.88996108569464,-87.63029733223148,59 W Hubbard St,Vegetariano/Vegano,4.394032225979709
+bars,Bars,1Q7RL7Hc63wKa2A9ec3zXw,Il Porcellino,1755,4.4,$$,41.88996108569464,-87.63029733223148,59 W Hubbard St,Otro,4.394032225979709
+salad,Salad,1Q7RL7Hc63wKa2A9ec3zXw,Il Porcellino,1755,4.4,$$,41.88996108569464,-87.63029733223148,59 W Hubbard St,Vegetariano/Vegano,4.394032225979709
+mediterranean,Mediterranean,9nUrDQ_REhU6sgcgXFAyfA,Aba,1951,4.4,$$$,41.8869441,-87.6487949,302 N Green St,Vegetariano/Vegano,4.394509453114746
+tapasmallplates,Tapas/Small Plates,9nUrDQ_REhU6sgcgXFAyfA,Aba,1951,4.4,$$$,41.8869441,-87.6487949,302 N Green St,Carnes,4.394509453114746
+italian,Italian,o0DaPvRb4IWH7hUWVCnoGw,Monteverde,1523,4.5,$$$,41.88191,-87.65302,1020 W Madison St,Vegetariano/Vegano,4.468632066032745
+desserts,Desserts,o0DaPvRb4IWH7hUWVCnoGw,Monteverde,1523,4.5,$$$,41.88191,-87.65302,1020 W Madison St,Otro,4.468632066032745
+wine_bars,Wine Bars,o0DaPvRb4IWH7hUWVCnoGw,Monteverde,1523,4.5,$$$,41.88191,-87.65302,1020 W Madison St,Otro,4.468632066032745
+tradamerican,American,0ucCbCekcn5XdzvRXnHl2w,Desert Hawk,45,4.6,,41.90288666670101,-87.67917606979607,2049 W Division St,Carnes,4.39182141208118
+bars,Bars,0ucCbCekcn5XdzvRXnHl2w,Desert Hawk,45,4.6,,41.90288666670101,-87.67917606979607,2049 W Division St,Otro,4.39182141208118
+mexican,Mexican,--Yw337vTC4fLKRCaw-PLQ,XOchimilco Mexican Restaurant,358,4.8,$$,41.9616665,-87.6802497,2030-32 W Montrose Ave,Carnes,4.551215232615668
+tradamerican,American,TC8tG6To87DUzC365njvXw,River Roast,1418,4.0,$$$,41.887957929885,-87.63227535993691,315 N La Salle Dr,Carnes,4.0972589518166025
+cocktailbars,Cocktail Bars,TC8tG6To87DUzC365njvXw,River Roast,1418,4.0,$$$,41.887957929885,-87.63227535993691,315 N La Salle Dr,Otro,4.0972589518166025
+venues,Venues & Event Spaces,TC8tG6To87DUzC365njvXw,River Roast,1418,4.0,$$$,41.887957929885,-87.63227535993691,315 N La Salle Dr,Otro,4.0972589518166025
+dimsum,Dim Sum,0p-Wi2pmihlcntw4dOfveQ,Qing Xiang Yuan Dumplings,5,4.2,,41.903345,-87.678091,2018 W Division St,Otro,4.371371622939095
+bbq,Barbeque,0p-Wi2pmihlcntw4dOfveQ,Qing Xiang Yuan Dumplings,5,4.2,,41.903345,-87.678091,2018 W Division St,Otro,4.371371622939095
+coffee,Coffee & Tea,0p-Wi2pmihlcntw4dOfveQ,Qing Xiang Yuan Dumplings,5,4.2,,41.903345,-87.678091,2018 W Division St,Otro,4.371371622939095
+peruvian,Peruvian,ATbuE6MdSeYLIxcfB8MYCA,Cabra,921,4.2,$$$,41.885851,-87.649086,200 N Green St,Carnes,4.260902652768643
+steak,Steakhouses,TpnJu57_NYEjgJyL6klurg,Perilla korean steakhouse,186,4.2,$$$$,41.88655,-87.62604,225 N Wabash Ave,Carnes,4.326155495020762
+korean,Korean,TpnJu57_NYEjgJyL6klurg,Perilla korean steakhouse,186,4.2,$$$$,41.88655,-87.62604,225 N Wabash Ave,Carnes,4.326155495020762
+cocktailbars,Cocktail Bars,TpnJu57_NYEjgJyL6klurg,Perilla korean steakhouse,186,4.2,$$$$,41.88655,-87.62604,225 N Wabash Ave,Otro,4.326155495020762
+japanese,Japanese,ruWJerAc9VW23GvegYddnQ,Gaijin,780,4.3,$$,41.88583,-87.65182,950 W Lake St,Mariscos/Pescado,4.3285489606126895
+asianfusion,Asian Fusion,ZXsqdTNHSqxBxCXcbmOiLA,Bigsuda,67,4.3,,41.906445,-87.671742,1362 N Milwaukee Ave,Vegetariano/Vegano,4.3644491527058955
+korean,Korean,ZXsqdTNHSqxBxCXcbmOiLA,Bigsuda,67,4.3,,41.906445,-87.671742,1362 N Milwaukee Ave,Carnes,4.3644491527058955
+noodles,Noodles,ZXsqdTNHSqxBxCXcbmOiLA,Bigsuda,67,4.3,,41.906445,-87.671742,1362 N Milwaukee Ave,Mariscos/Pescado,4.3644491527058955
+latin,Latin American,faOpq9ORL0FlsMrou2NYug,Amaru,479,4.7,$$$,41.91071,-87.67536,1904 W North Ave,Carnes,4.533036434713221
+caribbean,Caribbean,faOpq9ORL0FlsMrou2NYug,Amaru,479,4.7,$$$,41.91071,-87.67536,1904 W North Ave,Carnes,4.533036434713221
+cocktailbars,Cocktail Bars,faOpq9ORL0FlsMrou2NYug,Amaru,479,4.7,$$$,41.91071,-87.67536,1904 W North Ave,Otro,4.533036434713221
+thai,Thai,Bg7IkuTlqVh_Ezik1gA7yg,Siam Thai Eatery,141,4.4,,41.864942,-87.623699,1329 S Michigan Ave,Vegetariano/Vegano,4.37900572478041
+pastashops,Pasta Shops,ngB0iQM1Yz7Nx_tQZqU7NA,Daisies,769,4.3,$$,41.924443845390954,-87.69964666704485,2375 N Milwaukee Ave,Carnes,4.328796429932421
+newamerican,New American,ngB0iQM1Yz7Nx_tQZqU7NA,Daisies,769,4.3,$$,41.924443845390954,-87.69964666704485,2375 N Milwaukee Ave,Carnes,4.328796429932421
+cocktailbars,Cocktail Bars,ngB0iQM1Yz7Nx_tQZqU7NA,Daisies,769,4.3,$$,41.924443845390954,-87.69964666704485,2375 N Milwaukee Ave,Otro,4.328796429932421
+filipino,Filipino,0IYXh7l_VppKw5y97FehoA,Kasama,1380,4.5,$$,41.899692,-87.6756,1001 N Winchester Ave,Carnes,4.466246100842683
+bakeries,Bakeries,0IYXh7l_VppKw5y97FehoA,Kasama,1380,4.5,$$,41.899692,-87.6756,1001 N Winchester Ave,Otro,4.466246100842683
+newamerican,New American,0IYXh7l_VppKw5y97FehoA,Kasama,1380,4.5,$$,41.899692,-87.6756,1001 N Winchester Ave,Carnes,4.466246100842683
+newamerican,New American,pbEiXam9YJL3neCYHGwLUA,Alinea,2759,4.4,$$$$,41.9134194160823,-87.6482384681229,1723 N Halsted St,Carnes,4.395870717884089
+modern_european,Modern European,pbEiXam9YJL3neCYHGwLUA,Alinea,2759,4.4,$$$$,41.9134194160823,-87.6482384681229,1723 N Halsted St,Otro,4.395870717884089
+newamerican,New American,m5gfWEQI7BYTKWMYF-X-Ug,No Vacancy,163,4.6,$$,41.89115,-87.63375,509 N Wells St,Carnes,4.428872804802779
+wine_bars,Wine Bars,m5gfWEQI7BYTKWMYF-X-Ug,No Vacancy,163,4.6,$$,41.89115,-87.63375,509 N Wells St,Otro,4.428872804802779
+venues,Venues & Event Spaces,m5gfWEQI7BYTKWMYF-X-Ug,No Vacancy,163,4.6,$$,41.89115,-87.63375,509 N Wells St,Otro,4.428872804802779
+newamerican,New American,wfkj7DK8YzhdwhhFc2OntA,Giant,767,4.3,$$$,41.9171,-87.70746,3209 W Armitage Ave,Carnes,4.328841886017556
+beerbar,Beer Bar,wfkj7DK8YzhdwhhFc2OntA,Giant,767,4.3,$$$,41.9171,-87.70746,3209 W Armitage Ave,Otro,4.328841886017556
+wine_bars,Wine Bars,wfkj7DK8YzhdwhhFc2OntA,Giant,767,4.3,$$$,41.9171,-87.70746,3209 W Armitage Ave,Otro,4.328841886017556
+ramen,Ramen,hMNHD9LHs_R3vFCfTOGorw,Izakaya Shinya,196,4.2,,41.910173,-87.684546,2255 W North Ave,Mariscos/Pescado,4.324342916069314
+cocktailbars,Cocktail Bars,hMNHD9LHs_R3vFCfTOGorw,Izakaya Shinya,196,4.2,,41.910173,-87.684546,2255 W North Ave,Otro,4.324342916069314
+izakaya,Izakaya,hMNHD9LHs_R3vFCfTOGorw,Izakaya Shinya,196,4.2,,41.910173,-87.684546,2255 W North Ave,Mariscos/Pescado,4.324342916069314
+steak,Steakhouses,KML-ctMyeT9OkmEO_zjQmw,Bazaar Meat by José Andrés,237,4.3,$$$$,41.8840009,-87.63722299999999,120 N Wacker Dr,Carnes,4.349582998079027
+tradamerican,American,xFBQ1md6PDm7YEpJARoxAA,The VIG Chicago,943,4.1,$$,41.9099251,-87.6345035,1527 N Wells St,Carnes,4.194624164646045
+cocktailbars,Cocktail Bars,xFBQ1md6PDm7YEpJARoxAA,The VIG Chicago,943,4.1,$$,41.9099251,-87.6345035,1527 N Wells St,Otro,4.194624164646045
+breakfast_brunch,Breakfast & Brunch,xFBQ1md6PDm7YEpJARoxAA,The VIG Chicago,943,4.1,$$,41.9099251,-87.6345035,1527 N Wells St,Carnes,4.194624164646045
+asianfusion,Asian Fusion,FzYi3AVHoYZnWXe1BQrQEw,Mott St,1163,4.0,$$$,41.9071254164458,-87.6673834605751,1401 N Ashland Ave,Vegetariano/Vegano,4.112172380988721
+bars,Bars,FzYi3AVHoYZnWXe1BQrQEw,Mott St,1163,4.0,$$$,41.9071254164458,-87.6673834605751,1401 N Ashland Ave,Otro,4.112172380988721
+latin,Latin American,qZMgGHP6z37DCchbFFaj7w,Libertad,12,4.5,,41.91038752821303,-87.6739316,1835 W North Ave,Carnes,4.3760599015317245
+breakfast_brunch,Breakfast & Brunch,qZMgGHP6z37DCchbFFaj7w,Libertad,12,4.5,,41.91038752821303,-87.6739316,1835 W North Ave,Carnes,4.3760599015317245
+cocktailbars,Cocktail Bars,qZMgGHP6z37DCchbFFaj7w,Libertad,12,4.5,,41.91038752821303,-87.6739316,1835 W North Ave,Otro,4.3760599015317245
+tapasmallplates,Tapas/Small Plates,LaYrGWnZazWsc3xi1sTYfw,Arbella,694,4.4,$$,41.8920162809497,-87.6318293755272,112 W Grand Ave,Carnes,4.388729204006904
+cocktailbars,Cocktail Bars,LaYrGWnZazWsc3xi1sTYfw,Arbella,694,4.4,$$,41.8920162809497,-87.6318293755272,112 W Grand Ave,Otro,4.388729204006904
+newamerican,New American,LaYrGWnZazWsc3xi1sTYfw,Arbella,694,4.4,$$,41.8920162809497,-87.6318293755272,112 W Grand Ave,Carnes,4.388729204006904
+mediterranean,Mediterranean,ZJyomLAJ-ffIhB2lmSA_Yg,Anatolia,34,4.8,,41.92516,-87.64002,2349 N Clark St,Vegetariano/Vegano,4.400267171506073
+turkish,Turkish,ZJyomLAJ-ffIhB2lmSA_Yg,Anatolia,34,4.8,,41.92516,-87.64002,2349 N Clark St,Carnes,4.400267171506073
+cocktailbars,Cocktail Bars,ZJyomLAJ-ffIhB2lmSA_Yg,Anatolia,34,4.8,,41.92516,-87.64002,2349 N Clark St,Otro,4.400267171506073
+restaurants,Restaurants,Xwnu5KDr3_PGfSQ8binvrQ,Creepies,44,4.4,,41.884474,-87.661187,1360 W Randolph St,Otro,4.375262260265153
+latin,Latin American,D3tJ-N85kZddAwetQHTpkQ,Dell Rooster,194,4.8,$$,41.89575636351244,-87.67324000597,1825 W Chicago Ave,Carnes,4.492424595942714
+breakfast_brunch,Breakfast & Brunch,D3tJ-N85kZddAwetQHTpkQ,Dell Rooster,194,4.8,$$,41.89575636351244,-87.67324000597,1825 W Chicago Ave,Carnes,4.492424595942714
+sandwiches,Sandwiches,D3tJ-N85kZddAwetQHTpkQ,Dell Rooster,194,4.8,$$,41.89575636351244,-87.67324000597,1825 W Chicago Ave,Carnes,4.492424595942714
+brasseries,Brasseries,UKs05XWhbP0riI8O0Kv36w,Boeufhaus,502,4.2,$$$,41.899831,-87.687487,1012 N Western Ave,Otro,4.286369929724794
+cocktailbars,Cocktail Bars,UKs05XWhbP0riI8O0Kv36w,Boeufhaus,502,4.2,$$$,41.899831,-87.687487,1012 N Western Ave,Otro,4.286369929724794
+steak,Steakhouses,UKs05XWhbP0riI8O0Kv36w,Boeufhaus,502,4.2,$$$,41.899831,-87.687487,1012 N Western Ave,Carnes,4.286369929724794
+mediterranean,Mediterranean,mvFimrcREBIDo-pLAhMfNg,Avec - Chicago,2640,4.3,$$$,41.884290441849,-87.6433979433133,615 W Randolph St,Vegetariano/Vegano,4.311637792861224
+pastashops,Pasta Shops,dro6ttzG0H2PlES0gI8LIg,Tortello,601,4.3,$$,41.90343739642855,-87.67186413269891,1746 W Division St,Carnes,4.333190435589684
+italian,Italian,dro6ttzG0H2PlES0gI8LIg,Tortello,601,4.3,$$,41.90343739642855,-87.67186413269891,1746 W Division St,Vegetariano/Vegano,4.333190435589684
+cookingclasses,Cooking Classes,dro6ttzG0H2PlES0gI8LIg,Tortello,601,4.3,$$,41.90343739642855,-87.67186413269891,1746 W Division St,Otro,4.333190435589684
+pizza,Pizza,DXwSYgiXqIVNdO9dazel6w,Pequod's Pizza,8885,3.9,$$,41.92187,-87.664486,2207 N Clybourn Ave,Vegetariano/Vegano,3.925204333466621
+bbq,Barbeque,T_egMuf7xJHLdldzPqOaSQ,Qing Xiang Yuan Dumplings,2117,4.4,$$,41.85505,-87.63219,2002 S Wentworth Ave,Otro,4.394857726245412
+dimsum,Dim Sum,T_egMuf7xJHLdldzPqOaSQ,Qing Xiang Yuan Dumplings,2117,4.4,$$,41.85505,-87.63219,2002 S Wentworth Ave,Otro,4.394857726245412
+coffee,Coffee & Tea,T_egMuf7xJHLdldzPqOaSQ,Qing Xiang Yuan Dumplings,2117,4.4,$$,41.85505,-87.63219,2002 S Wentworth Ave,Otro,4.394857726245412
+cocktailbars,Cocktail Bars,0EcR5_zMAdyWf96owSBYbw,Wolf & Company,108,4.3,,41.91380989193472,-87.68777157055223,1752 N Western Ave,Otro,4.3601030749740834
+burgers,Burgers,0EcR5_zMAdyWf96owSBYbw,Wolf & Company,108,4.3,,41.91380989193472,-87.68777157055223,1752 N Western Ave,Carnes,4.3601030749740834
+delis,Delis,0EcR5_zMAdyWf96owSBYbw,Wolf & Company,108,4.3,,41.91380989193472,-87.68777157055223,1752 N Western Ave,Carnes,4.3601030749740834
+southern,Southern,V2jEs7sH44pcG1J9x59f9w,Dove's Luncheonette,833,4.2,$$,41.909487,-87.677293,1545 N Damen Ave,Otro,4.264923232996432
+tex-mex,Tex-Mex,V2jEs7sH44pcG1J9x59f9w,Dove's Luncheonette,833,4.2,$$,41.909487,-87.677293,1545 N Damen Ave,Otro,4.264923232996432
+breakfast_brunch,Breakfast & Brunch,V2jEs7sH44pcG1J9x59f9w,Dove's Luncheonette,833,4.2,$$,41.909487,-87.677293,1545 N Damen Ave,Carnes,4.264923232996432
+pizza,Pizza,DEKvZxZh_bee-Pw-RvFUKg,Ardor by Chance,9,4.8,,41.96554406258067,-87.6866985366729,4624 N Lincoln Ave,Vegetariano/Vegano,4.380633928456272
+tradamerican,American,DEKvZxZh_bee-Pw-RvFUKg,Ardor by Chance,9,4.8,,41.96554406258067,-87.6866985366729,4624 N Lincoln Ave,Carnes,4.380633928456272
+newamerican,New American,XKUZV9O2sRFLDIpAmwmG5g,Boka,1902,4.3,$$$$,41.91356,-87.647993,1729 N Halsted St,Carnes,4.315213434464714
+newamerican,New American,_MnIiS_b3enHyx8Y62gd4Q,Oriole,441,4.7,$$$$,41.8860966,-87.6449481,661 W Walnut St,Carnes,4.526294016561363
+tradamerican,American,9mhqcimD0CYvqxzfj_VXnQ,Little Bad Wolf,2558,4.4,$$,41.983356,-87.669057,1541 W Bryn Mawr Ave,Carnes,4.395599303330361
+beerbar,Beer Bar,9mhqcimD0CYvqxzfj_VXnQ,Little Bad Wolf,2558,4.4,$$,41.983356,-87.669057,1541 W Bryn Mawr Ave,Otro,4.395599303330361
+cocktailbars,Cocktail Bars,9mhqcimD0CYvqxzfj_VXnQ,Little Bad Wolf,2558,4.4,$$,41.983356,-87.669057,1541 W Bryn Mawr Ave,Otro,4.395599303330361
+newamerican,New American,4i1Ny2zIE1VJSU9gLMkHqg,Lula Cafe,2440,4.3,$$,41.927668036295,-87.706845233929,2537 N Kedzie Blvd,Carnes,4.312429479450422
+breakfast_brunch,Breakfast & Brunch,4i1Ny2zIE1VJSU9gLMkHqg,Lula Cafe,2440,4.3,$$,41.927668036295,-87.706845233929,2537 N Kedzie Blvd,Carnes,4.312429479450422
+desserts,Desserts,4i1Ny2zIE1VJSU9gLMkHqg,Lula Cafe,2440,4.3,$$,41.927668036295,-87.706845233929,2537 N Kedzie Blvd,Otro,4.312429479450422
+pubs,Pubs,kiwMgtypE3TRrUkmTwA2Zw,Armitage Alehouse,572,4.5,$$$,41.91838,-87.65359,1000 W Armitage Ave,Otro,4.440804729089779
+british,British,kiwMgtypE3TRrUkmTwA2Zw,Armitage Alehouse,572,4.5,$$$,41.91838,-87.65359,1000 W Armitage Ave,Otro,4.440804729089779
+seafood,Seafood,kiwMgtypE3TRrUkmTwA2Zw,Armitage Alehouse,572,4.5,$$$,41.91838,-87.65359,1000 W Armitage Ave,Mariscos/Pescado,4.440804729089779
+steak,Steakhouses,FiDxI03abCAfA4pgl1NJ1w,Butcher & The Bear,171,4.5,$$$$,41.93223470574105,-87.648727,2721 N Halsted St,Carnes,4.405428717711241
+seafood,Seafood,FiDxI03abCAfA4pgl1NJ1w,Butcher & The Bear,171,4.5,$$$$,41.93223470574105,-87.648727,2721 N Halsted St,Mariscos/Pescado,4.405428717711241
+burgers,Burgers,FiDxI03abCAfA4pgl1NJ1w,Butcher & The Bear,171,4.5,$$$$,41.93223470574105,-87.648727,2721 N Halsted St,Carnes,4.405428717711241
+italian,Italian,3vdqfM3NqeM_g_q1qZlScw,Adalina Italian,466,4.1,$$$,41.8994,-87.62835,912 N State St,Vegetariano/Vegano,4.241348519238347
+tradamerican,American,PtqCsmnOow_ByOkj38eB8w,The Evie,323,4.5,$$$,41.892207051940055,-87.62390403884024,537 N Michigan Ave,Carnes,4.422895102775508
+sushi,Sushi Bars,PtqCsmnOow_ByOkj38eB8w,The Evie,323,4.5,$$$,41.892207051940055,-87.62390403884024,537 N Michigan Ave,Otro,4.422895102775508
+steak,Steakhouses,PtqCsmnOow_ByOkj38eB8w,The Evie,323,4.5,$$$,41.892207051940055,-87.62390403884024,537 N Michigan Ave,Carnes,4.422895102775508
+newamerican,New American,Jht3PLwPH693bseS7J0FDA,Maxwells Trading,195,4.5,,41.88767535355601,-87.665248028934,1516 W Carroll Ave,Carnes,4.408694488610421
+gourmet,Specialty Food,apo9fX6Opmr2Z87sm-_cfg,All Together Now,141,4.5,$$,41.89555,-87.68051,2119 West Chicago Ave,Otro,4.401002604655605
+newamerican,New American,apo9fX6Opmr2Z87sm-_cfg,All Together Now,141,4.5,$$,41.89555,-87.68051,2119 West Chicago Ave,Carnes,4.401002604655605
+beer_and_wine,"Beer, Wine & Spirits",apo9fX6Opmr2Z87sm-_cfg,All Together Now,141,4.5,$$,41.89555,-87.68051,2119 West Chicago Ave,Otro,4.401002604655605
+newamerican,New American,Q55HHOW09QoNI07dUXjn5A,Alpana,391,4.3,$$$,41.89767781975498,-87.62807020124552,831 N State St,Carnes,4.341013097176479
+wine_bars,Wine Bars,Q55HHOW09QoNI07dUXjn5A,Alpana,391,4.3,$$$,41.89767781975498,-87.62807020124552,831 N State St,Otro,4.341013097176479
+mediterranean,Mediterranean,WyjV1N1iQcXnk9_oLHaKxw,Pinched on the River,523,4.4,$$,41.8909516,-87.6161529,443 E Illinois St,Vegetariano/Vegano,4.386845229310111
+wine_bars,Wine Bars,WyjV1N1iQcXnk9_oLHaKxw,Pinched on the River,523,4.4,$$,41.8909516,-87.6161529,443 E Illinois St,Otro,4.386845229310111
+latin,Latin American,45Xno0A0IWY8A0JBgeQ7Eg,Brasero,150,4.6,,41.89570504072024,-87.67021413892508,1709 W Chicago Ave,Carnes,4.4254502608988355
+newamerican,New American,45Xno0A0IWY8A0JBgeQ7Eg,Brasero,150,4.6,,41.89570504072024,-87.67021413892508,1709 W Chicago Ave,Carnes,4.4254502608988355
+beer_and_wine,"Beer, Wine & Spirits",45Xno0A0IWY8A0JBgeQ7Eg,Brasero,150,4.6,,41.89570504072024,-87.67021413892508,1709 W Chicago Ave,Otro,4.4254502608988355
+italian,Italian,Z45eQgbnFWH--PYPLTFhNg,Void,59,4.6,,41.93478,-87.716438,2937 N Milwaukee Ave,Vegetariano/Vegano,4.397035187091669
+seafood,Seafood,Z45eQgbnFWH--PYPLTFhNg,Void,59,4.6,,41.93478,-87.716438,2937 N Milwaukee Ave,Mariscos/Pescado,4.397035187091669
+cocktailbars,Cocktail Bars,Z45eQgbnFWH--PYPLTFhNg,Void,59,4.6,,41.93478,-87.716438,2937 N Milwaukee Ave,Otro,4.397035187091669
+asianfusion,Asian Fusion,kUpqpEqkBjZguS1uA6NQYA,En Hakkore 2.0,622,4.6,$$,41.90859268098761,-87.67442096514347,1467 N Milwaukee Ave,Vegetariano/Vegano,4.498879384656187
+poke,Poke,kUpqpEqkBjZguS1uA6NQYA,En Hakkore 2.0,622,4.6,$$,41.90859268098761,-87.67442096514347,1467 N Milwaukee Ave,Otro,4.498879384656187
+sushi,Sushi Bars,kUpqpEqkBjZguS1uA6NQYA,En Hakkore 2.0,622,4.6,$$,41.90859268098761,-87.67442096514347,1467 N Milwaukee Ave,Otro,4.498879384656187
+korean,Korean,n5jRD0dlY6Dl672THS7yFA,Mister Tiger,107,4.5,,41.89129,-87.65596,1132 W Grand Ave,Carnes,4.395457445773053
+indpak,Indian,HuB9hjq-X4LEEqxN2RhAVw,Kama - Wicker Park,134,4.4,,41.90971,-87.676833,1560 N Milwaukee Ave,Carnes,4.378773926789027
+beerbar,Beer Bar,HuB9hjq-X4LEEqxN2RhAVw,Kama - Wicker Park,134,4.4,,41.90971,-87.676833,1560 N Milwaukee Ave,Otro,4.378773926789027
+cocktailbars,Cocktail Bars,HuB9hjq-X4LEEqxN2RhAVw,Kama - Wicker Park,134,4.4,,41.90971,-87.676833,1560 N Milwaukee Ave,Otro,4.378773926789027
+mexican,Mexican,XR7K-0DlG3dikV4nRXPjYQ,Matilda,76,4.5,,41.89188,-87.63378,535 N Wells St,Carnes,4.3898310235837545
+peruvian,Peruvian,XR7K-0DlG3dikV4nRXPjYQ,Matilda,76,4.5,,41.89188,-87.63378,535 N Wells St,Carnes,4.3898310235837545
+cocktailbars,Cocktail Bars,XR7K-0DlG3dikV4nRXPjYQ,Matilda,76,4.5,,41.89188,-87.63378,535 N Wells St,Otro,4.3898310235837545
+soulfood,Soul Food,TODU-IzDLN3EdiHhQUQHvg,The Soul Food Lounge,438,4.6,$$$,41.85907,-87.72052,3804 W 16th St,Otro,4.479043357765717
+comfortfood,Comfort Food,TODU-IzDLN3EdiHhQUQHvg,The Soul Food Lounge,438,4.6,$$$,41.85907,-87.72052,3804 W 16th St,Otro,4.479043357765717
+lebanese,Lebanese,bPiaa7fgHkC9l7B2HyS0aw,Cedar Palace,531,4.8,$$,41.918054,-87.645757,655 W Armitage Ave,Otro,4.5929608822349595
+falafel,Falafel,bPiaa7fgHkC9l7B2HyS0aw,Cedar Palace,531,4.8,$$,41.918054,-87.645757,655 W Armitage Ave,Otro,4.5929608822349595
+french,French,PdbRfCs6fHZacu6L_5oHnA,Bistro Monadnock,169,4.6,,41.877754,-87.629628,325 S Federal St,Otro,4.430407577853876
+cocktailbars,Cocktail Bars,PdbRfCs6fHZacu6L_5oHnA,Bistro Monadnock,169,4.6,,41.877754,-87.629628,325 S Federal St,Otro,4.430407577853876
+japanese,Japanese,ak3FYZOsEWeiP6Pdp74YkQ,Miru,312,4.3,$$$,41.8874426163459,-87.6176301019272,401 E Wacker Dr,Mariscos/Pescado,4.345003287665324
+indpak,Indian,OM24LGQGFp1PfaiYrkOIbQ,Lilac Tiger,47,4.3,,41.903512007398334,-87.6717396453023,1742 W Division St,Carnes,4.366805611671377
+cocktailbars,Cocktail Bars,OM24LGQGFp1PfaiYrkOIbQ,Lilac Tiger,47,4.3,,41.903512007398334,-87.6717396453023,1742 W Division St,Otro,4.366805611671377
+british,British,tQoQbc3vAo3qdTDiNgSekA,Pleasant House Pub,1011,4.4,$$,41.85357,-87.64621,2119 S Halsted St,Otro,4.3910937588247805
+pubs,Pubs,tQoQbc3vAo3qdTDiNgSekA,Pleasant House Pub,1011,4.4,$$,41.85357,-87.64621,2119 S Halsted St,Otro,4.3910937588247805
+breakfast_brunch,Breakfast & Brunch,tQoQbc3vAo3qdTDiNgSekA,Pleasant House Pub,1011,4.4,$$,41.85357,-87.64621,2119 S Halsted St,Carnes,4.3910937588247805
+italian,Italian,PH2qRMJ2s4oqI1-9wlu2jw,Rose Mary,888,4.3,$$$$,41.88698,-87.65119,932 W Fulton Market,Vegetariano/Vegano,4.326327571746573
+modern_european,Modern European,PH2qRMJ2s4oqI1-9wlu2jw,Rose Mary,888,4.3,$$$$,41.88698,-87.65119,932 W Fulton Market,Otro,4.326327571746573
+cocktailbars,Cocktail Bars,PH2qRMJ2s4oqI1-9wlu2jw,Rose Mary,888,4.3,$$$$,41.88698,-87.65119,932 W Fulton Market,Otro,4.326327571746573
+vegetarian,Vegetarian,zF9o33BVqLUOcCmnuB2eQw,Handlebar,1795,4.1,$$,41.9100899,-87.6853,2311 W North Ave,Otro,4.15949571659444
+bars,Bars,zF9o33BVqLUOcCmnuB2eQw,Handlebar,1795,4.1,$$,41.9100899,-87.6853,2311 W North Ave,Otro,4.15949571659444
+vegan,Vegan,zF9o33BVqLUOcCmnuB2eQw,Handlebar,1795,4.1,$$,41.9100899,-87.6853,2311 W North Ave,Otro,4.15949571659444
+newamerican,New American,0qW7MJ0trxnoWzCHBiBgbQ,Union,83,4.5,,41.9218,-87.69769,2202 N California Ave,Carnes,4.391153807177089
+pubs,Pubs,0qW7MJ0trxnoWzCHBiBgbQ,Union,83,4.5,,41.9218,-87.69769,2202 N California Ave,Otro,4.391153807177089
+tacos,Tacos,CBF6sSJBD2iOmkbNZAerZQ,This Little Goat,6,4.0,,41.88070417685551,-87.67417994864469,1901 W Madison St,Carnes,4.3686614023404005
+modern_european,Modern European,incGwtfg6rwT00w9WAqE0A,Apolonia,325,4.4,$$$,41.85267,-87.62361,2201 S Michigan Ave,Otro,4.383688084344537
+bars,Bars,incGwtfg6rwT00w9WAqE0A,Apolonia,325,4.4,$$$,41.85267,-87.62361,2201 S Michigan Ave,Otro,4.383688084344537
+mediterranean,Mediterranean,incGwtfg6rwT00w9WAqE0A,Apolonia,325,4.4,$$$,41.85267,-87.62361,2201 S Michigan Ave,Vegetariano/Vegano,4.383688084344537
+mediterranean,Mediterranean,90-6FQYDxKp516WnO_jMpg,Galit,540,4.1,$$$$,41.9261880718568,-87.6496120914817,2429 N Lincoln Ave,Vegetariano/Vegano,4.231291028446387
+mideastern,Middle Eastern,90-6FQYDxKp516WnO_jMpg,Galit,540,4.1,$$$$,41.9261880718568,-87.6496120914817,2429 N Lincoln Ave,Otro,4.231291028446387
+vegetarian,Vegetarian,90-6FQYDxKp516WnO_jMpg,Galit,540,4.1,$$$$,41.9261880718568,-87.6496120914817,2429 N Lincoln Ave,Otro,4.231291028446387
+latin,Latin American,i2IertfmCglGxRGjj979_A,Cariño,39,4.9,,41.966921813461994,-87.65875104814768,4662 N Broadway,Carnes,4.411210889766684
+tacos,Tacos,i2IertfmCglGxRGjj979_A,Cariño,39,4.9,,41.966921813461994,-87.65875104814768,4662 N Broadway,Carnes,4.411210889766684
+brewpubs,Brewpubs,iOMvXQYFl6_mtw0wX6ZUXw,Forbidden Root,647,4.3,$$,41.89628,-87.671551,1746 W Chicago Ave,Otro,4.331859345757841
+tapasmallplates,Tapas/Small Plates,iOMvXQYFl6_mtw0wX6ZUXw,Forbidden Root,647,4.3,$$,41.89628,-87.671551,1746 W Chicago Ave,Carnes,4.331859345757841
+cocktailbars,Cocktail Bars,iOMvXQYFl6_mtw0wX6ZUXw,Forbidden Root,647,4.3,$$,41.89628,-87.671551,1746 W Chicago Ave,Otro,4.331859345757841
+thai,Thai,IMZE58oaY-gRlv3qK9BCdw,Tuk Tuk Thai Isan Street Food,339,4.4,$$,41.934138,-87.64626,2852 N Clark St,Vegetariano/Vegano,4.383960273640337
+chinese,Chinese,oSI2djSdl7KjNGwb7PDWCg,Lao Peng You,424,4.2,$$,41.89610667,-87.67786167,2020 W Chicago Ave,Otro,4.2936608978184445
+french,French,9aUbPj7dgcjdqF_C0OKjPQ,Gavroche,65,4.5,,41.91,-87.63424,1529 N Wells St,Otro,4.387686140857067
+newamerican,New American,zH7lgLLw0FVfA6HrwV4pTw,S.K.Y.,790,4.5,$$$,41.924134573867455,-87.6367046,2300 N Lincoln Park W,Carnes,4.450808270995537
+cocktailbars,Cocktail Bars,zH7lgLLw0FVfA6HrwV4pTw,S.K.Y.,790,4.5,$$$,41.924134573867455,-87.6367046,2300 N Lincoln Park W,Otro,4.450808270995537
+wine_bars,Wine Bars,zH7lgLLw0FVfA6HrwV4pTw,S.K.Y.,790,4.5,$$$,41.924134573867455,-87.6367046,2300 N Lincoln Park W,Otro,4.450808270995537
+shanghainese,Shanghainese,Hva72BMbfVg1q9XwiiW-Mg,La Mom Kitchen,23,4.9,,41.9797752,-87.6596671949102,5357 N Broadway,Otro,4.396257494424939
+szechuan,Szechuan,Hva72BMbfVg1q9XwiiW-Mg,La Mom Kitchen,23,4.9,,41.9797752,-87.6596671949102,5357 N Broadway,Otro,4.396257494424939
+cambodian,Cambodian,ZhHonGY7XknrPjwtx2jg2A,Khmai,96,4.5,,42.00239984854286,-87.66098231077194,6580 N Sheridan Rd,Otro,4.393527969101079
+food_court,Food Court,lYKn_TKwzudoIYplL2tGDg,Chicago French Market,653,3.9,$$,41.884136,-87.640976,131 N Clinton St,Otro,4.105154093308103
+gourmet,Specialty Food,lYKn_TKwzudoIYplL2tGDg,Chicago French Market,653,3.9,$$,41.884136,-87.640976,131 N Clinton St,Otro,4.105154093308103
+venues,Venues & Event Spaces,lYKn_TKwzudoIYplL2tGDg,Chicago French Market,653,3.9,$$,41.884136,-87.640976,131 N Clinton St,Otro,4.105154093308103
+thai,Thai,-NwrV4cVS-INh7b6Fb2FoA,Tuk Tuk,31,4.3,,41.90363835081604,-87.66522239999999,1500 W Division St,Vegetariano/Vegano,4.368818586787651
+noodles,Noodles,-NwrV4cVS-INh7b6Fb2FoA,Tuk Tuk,31,4.3,,41.90363835081604,-87.66522239999999,1500 W Division St,Mariscos/Pescado,4.368818586787651
+soup,Soup,-NwrV4cVS-INh7b6Fb2FoA,Tuk Tuk,31,4.3,,41.90363835081604,-87.66522239999999,1500 W Division St,Otro,4.368818586787651
+cocktailbars,Cocktail Bars,SNMDHCuAwZQX-Chtq7Q5lA,Nettare,70,4.3,,41.89575065216653,-87.67662461847067,1953 W Chicago Ave,Otro,4.364109946639022
+newamerican,New American,SNMDHCuAwZQX-Chtq7Q5lA,Nettare,70,4.3,,41.89575065216653,-87.67662461847067,1953 W Chicago Ave,Carnes,4.364109946639022
+cafes,Cafes,SNMDHCuAwZQX-Chtq7Q5lA,Nettare,70,4.3,,41.89575065216653,-87.67662461847067,1953 W Chicago Ave,Otro,4.364109946639022
+newamerican,New American,sWYRaPCYHrTxsZPLWmzkzQ,Scofflaw,875,4.3,$$$,41.9173240661621,-87.7071762084961,3201 W Armitage Ave,Carnes,4.3265764869703585
+cocktailbars,Cocktail Bars,sWYRaPCYHrTxsZPLWmzkzQ,Scofflaw,875,4.3,$$$,41.9173240661621,-87.7071762084961,3201 W Armitage Ave,Otro,4.3265764869703585
+tradamerican,American,bQDXNksi5lQ4YRv0kGSzjQ,The Welcome Back Lounge,136,4.4,$$,41.92549,-87.701022,2423 N Milwaukee Ave,Carnes,4.378840675446923
+breakfast_brunch,Breakfast & Brunch,bQDXNksi5lQ4YRv0kGSzjQ,The Welcome Back Lounge,136,4.4,$$,41.92549,-87.701022,2423 N Milwaukee Ave,Carnes,4.378840675446923
+cocktailbars,Cocktail Bars,bQDXNksi5lQ4YRv0kGSzjQ,The Welcome Back Lounge,136,4.4,$$,41.92549,-87.701022,2423 N Milwaukee Ave,Otro,4.378840675446923
+food_court,Food Court,4wmRu3bpaSpW999SHGK34g,Sterling Food Hall,533,4.2,$$,41.879784,-87.630254,125 S Clark St,Otro,4.283777995725308
+turkish,Turkish,IqJKz6-IBIbcfUcotMXO8Q,Cafe Istanbul,371,4.4,$$,41.9034987,-87.6778866,2014 W Division St,Carnes,4.38454956324253
+mediterranean,Mediterranean,IqJKz6-IBIbcfUcotMXO8Q,Cafe Istanbul,371,4.4,$$,41.9034987,-87.6778866,2014 W Division St,Vegetariano/Vegano,4.38454956324253
+argentine,Argentine,Enf_3DXmppx19hFGs0UDKw,La Nonna,439,4.7,$$,41.9429574,-87.7203016,3400 N Lawndale Ave,Otro,4.525924035765967
+italian,Italian,Enf_3DXmppx19hFGs0UDKw,La Nonna,439,4.7,$$,41.9429574,-87.7203016,3400 N Lawndale Ave,Vegetariano/Vegano,4.525924035765967
+thai,Thai,g-FNZCErYf4CuEb8EWYDuQ,Mahanakhon Noodle Bar,43,4.8,,41.934736,-87.661455,2907 N Lincoln Ave,Vegetariano/Vegano,4.406892577503209
+noodles,Noodles,g-FNZCErYf4CuEb8EWYDuQ,Mahanakhon Noodle Bar,43,4.8,,41.934736,-87.661455,2907 N Lincoln Ave,Mariscos/Pescado,4.406892577503209
+newamerican,New American,Xt75l3uhbczQeEvLyXVJfA,The Loyalist,699,4.0,$$,41.88491,-87.66036,177 N Ada St,Carnes,4.155581876217051
+cocktailbars,Cocktail Bars,Xt75l3uhbczQeEvLyXVJfA,The Loyalist,699,4.0,$$,41.88491,-87.66036,177 N Ada St,Otro,4.155581876217051
+venues,Venues & Event Spaces,Xt75l3uhbczQeEvLyXVJfA,The Loyalist,699,4.0,$$,41.88491,-87.66036,177 N Ada St,Otro,4.155581876217051
+thai,Thai,p2cCK4Vu-3L-skOMd93VVg,JJ Thai Street Food,562,4.4,$$,41.8958251,-87.6703764,1715 W Chicago Ave,Vegetariano/Vegano,4.387328314109457
+asianfusion,Asian Fusion,ERYEi0job-Kwca1lkOcRhg,NoodleBird,144,4.4,$$,41.93194357461772,-87.7023888774715,2957 W Diversey,Vegetariano/Vegano,4.379103524199135
+noodles,Noodles,ERYEi0job-Kwca1lkOcRhg,NoodleBird,144,4.4,$$,41.93194357461772,-87.7023888774715,2957 W Diversey,Mariscos/Pescado,4.379103524199135
+italian,Italian,VWeNF7HWLNPiXF-cKu4kDg,Segnatore,150,4.3,,41.89942,-87.6964,1001 N California Ave,Vegetariano/Vegano,4.356219491668066
+filipino,Filipino,db7p4tMxC_pptYho8RUhzQ,Aloha Wagon,298,4.8,$$,41.85405076353342,-87.68549001270712,2023 S Western Ave,Carnes,4.532509611007823
+mexican,Mexican,db7p4tMxC_pptYho8RUhzQ,Aloha Wagon,298,4.8,$$,41.85405076353342,-87.68549001270712,2023 S Western Ave,Carnes,4.532509611007823
+hawaiian,Hawaiian,db7p4tMxC_pptYho8RUhzQ,Aloha Wagon,298,4.8,$$,41.85405076353342,-87.68549001270712,2023 S Western Ave,Otro,4.532509611007823
+mediterranean,Mediterranean,owk55_aszZtVP-SQPyXTIQ,Nora Restaurant,209,4.3,,41.89356,-87.62287,636 N St Clair St,Vegetariano/Vegano,4.351541141867761
+cocktailbars,Cocktail Bars,owk55_aszZtVP-SQPyXTIQ,Nora Restaurant,209,4.3,,41.89356,-87.62287,636 N St Clair St,Otro,4.351541141867761
+sardinian,Sardinian,owk55_aszZtVP-SQPyXTIQ,Nora Restaurant,209,4.3,,41.89356,-87.62287,636 N St Clair St,Otro,4.351541141867761
+chicken_wings,Chicken Wings,fDpryalBDQhHoll8UKRaXw,Way Out,46,4.5,,41.91716335791234,-87.70767779475786,3213 W Armitage Ave,Otro,4.3837777831213245
+cocktailbars,Cocktail Bars,fDpryalBDQhHoll8UKRaXw,Way Out,46,4.5,,41.91716335791234,-87.70767779475786,3213 W Armitage Ave,Otro,4.3837777831213245
+tacos,Tacos,Gr42JZ9GsKaESW-864rwFQ,Tepalcates,133,4.9,,41.939633,-87.686718,2326 W Belmont Ave,Carnes,4.483795686546987
+chinese,Chinese,OSyGZMwCI9w_0BbQtH-kCw,Duck Duck Goat,2170,4.1,$$$,41.886635785447695,-87.64971571113162,857 W Fulton Market,Otro,4.1511395766233115
+filipino,Filipino,a2ogrDeg0HwwzlLIj3x-Qg,Boonie's Filipino Restaurant,220,4.5,,41.96063,-87.68828,4337 N Western Ave,Carnes,4.411864818867004
+spanish,Spanish,W83v9XeJyspMiJ7CwThvVQ,Seville Chicago,106,4.2,,41.87845447072228,-87.6350425,243 S Franklin St,Otro,4.342809685782579
+mediterranean,Mediterranean,W83v9XeJyspMiJ7CwThvVQ,Seville Chicago,106,4.2,,41.87845447072228,-87.6350425,243 S Franklin St,Vegetariano/Vegano,4.342809685782579
+cocktailbars,Cocktail Bars,W83v9XeJyspMiJ7CwThvVQ,Seville Chicago,106,4.2,,41.87845447072228,-87.6350425,243 S Franklin St,Otro,4.342809685782579
+vietnamese,Vietnamese,EYjyi_lytYaM1Ty7-kNKSg,Phodega,403,4.3,$$,41.90334127310094,-87.6758734,1924 W Division St,Otro,4.3404680726292835
+hainan,Hainan,EYjyi_lytYaM1Ty7-kNKSg,Phodega,403,4.3,$$,41.90334127310094,-87.6758734,1924 W Division St,Otro,4.3404680726292835
+noodles,Noodles,EYjyi_lytYaM1Ty7-kNKSg,Phodega,403,4.3,$$,41.90334127310094,-87.6758734,1924 W Division St,Mariscos/Pescado,4.3404680726292835
+italian,Italian,KSN52IyGX6tsKLFyXfRCzg,Gussie's Handmade Italian,366,4.3,$$,41.91098828028453,-87.6359135883639,227 W North Ave,Vegetariano/Vegano,4.342197078041851
+desserts,Desserts,KSN52IyGX6tsKLFyXfRCzg,Gussie's Handmade Italian,366,4.3,$$,41.91098828028453,-87.6359135883639,227 W North Ave,Otro,4.342197078041851
+salad,Salad,KSN52IyGX6tsKLFyXfRCzg,Gussie's Handmade Italian,366,4.3,$$,41.91098828028453,-87.6359135883639,227 W North Ave,Vegetariano/Vegano,4.342197078041851
+korean,Korean,NCbmJtryUXXg1mtoZg8aJg,TAK Korean Bistro & Karaoke,173,4.5,$$$,41.86823,-87.62635,1132 S Wabash Ave,Carnes,4.405709761640777
+karaoke,Karaoke,NCbmJtryUXXg1mtoZg8aJg,TAK Korean Bistro & Karaoke,173,4.5,$$$,41.86823,-87.62635,1132 S Wabash Ave,Otro,4.405709761640777
+cocktailbars,Cocktail Bars,NCbmJtryUXXg1mtoZg8aJg,TAK Korean Bistro & Karaoke,173,4.5,$$$,41.86823,-87.62635,1132 S Wabash Ave,Otro,4.405709761640777
+newamerican,New American,KQqXxK257UUyzpbtjelniw,Ox Bar & Hearth,35,4.8,,41.91018949555752,-87.64891069382429,1578 N Clybourn Ave,Carnes,4.401014335671483
+cocktailbars,Cocktail Bars,KQqXxK257UUyzpbtjelniw,Ox Bar & Hearth,35,4.8,,41.91018949555752,-87.64891069382429,1578 N Clybourn Ave,Otro,4.401014335671483
+indpak,Indian,62SgM_QucAnf3KYDFJz9qQ,Nadu,89,4.2,,41.92751439776936,-87.65193624110454,2518 N Lincoln Ave,Carnes,4.346931527307713
+chinese,Chinese,2Oi105ekJSsbFde25kuSXQ,Shang Noodle - Chicago,484,4.3,$$,41.89153,-87.62204,215 E Grand Ave,Otro,4.33713685933358
+noodles,Noodles,2Oi105ekJSsbFde25kuSXQ,Shang Noodle - Chicago,484,4.3,$$,41.89153,-87.62204,215 E Grand Ave,Mariscos/Pescado,4.33713685933358
+french,French,gAp38M1cLRkFHbemMhaNAQ,Le Bouchon,816,4.0,$$$,41.91756,-87.67792,1958 N Damen Ave,Otro,4.141749748924196
+korean,Korean,e9Gx0S7ojgg2Y7BrITiADA,PERILLA korean fare,403,4.1,$$$,41.88942,-87.64452,401 N Milwaukee Ave,Carnes,4.251210043836371
+steak,Steakhouses,e9Gx0S7ojgg2Y7BrITiADA,PERILLA korean fare,403,4.1,$$$,41.88942,-87.64452,401 N Milwaukee Ave,Carnes,4.251210043836371
+asianfusion,Asian Fusion,e9Gx0S7ojgg2Y7BrITiADA,PERILLA korean fare,403,4.1,$$$,41.88942,-87.64452,401 N Milwaukee Ave,Vegetariano/Vegano,4.251210043836371
+asianfusion,Asian Fusion,U9D0vqEP4QrJfJYs8mr3DA,Oiistar,1220,4.2,$$,41.90708880046081,-87.67210403709154,1385 N Milwaukee Ave,Vegetariano/Vegano,4.250315505572234
+ramen,Ramen,U9D0vqEP4QrJfJYs8mr3DA,Oiistar,1220,4.2,$$,41.90708880046081,-87.67210403709154,1385 N Milwaukee Ave,Mariscos/Pescado,4.250315505572234
+mediterranean,Mediterranean,xFe60TjSm6JXY1g-xc9CDQ,Avec River North,366,4.2,$$$,41.8938651,-87.632917,141 W Erie St,Vegetariano/Vegano,4.299933798596124
+african,African,5O_UGfc_aZf_Y0Q5audAhg,Mogadishu Restaurant,164,4.6,$,41.9000224550849,-87.6368449225973,931 N Orleans St,Otro,4.429130526482294
+somali,Somali,5O_UGfc_aZf_Y0Q5audAhg,Mogadishu Restaurant,164,4.6,$,41.9000224550849,-87.6368449225973,931 N Orleans St,Otro,4.429130526482294
+turkish,Turkish,l_602ggEZES7dW_WeOmKYA,Elia,172,3.9,,41.903503,-87.676424,1938 W Division St,Carnes,4.251998020214647
+mediterranean,Mediterranean,l_602ggEZES7dW_WeOmKYA,Elia,172,3.9,,41.903503,-87.676424,1938 W Division St,Vegetariano/Vegano,4.251998020214647
+halal,Halal,l_602ggEZES7dW_WeOmKYA,Elia,172,3.9,,41.903503,-87.676424,1938 W Division St,Otro,4.251998020214647
+greek,Greek,3fa9cK0uD6_DbA1Kv-6fmQ,Avli on The Park,320,4.0,$$$,41.8854547108051,-87.61771458432159,180 N Field Blvd,Otro,4.227491060468589
+catering,Caterers,i7Zm01nbGsta7GVVPY-Aqw,La Bodega,15,5.0,,41.86857605,-87.62597656,,Otro,4.391344989483967
+fooddeliveryservices,Food Delivery Services,i7Zm01nbGsta7GVVPY-Aqw,La Bodega,15,5.0,,41.86857605,-87.62597656,,Otro,4.391344989483967
+tapasmallplates,Tapas/Small Plates,i7Zm01nbGsta7GVVPY-Aqw,La Bodega,15,5.0,,41.86857605,-87.62597656,,Carnes,4.391344989483967
+bars,Bars,sJOPkTGLi53eB46ykvDeRg,Farm Bar - Lakeview,565,4.2,$$,41.93643,-87.66141,1300 W Wellington Ave,Otro,4.281260722614313
+newamerican,New American,sJOPkTGLi53eB46ykvDeRg,Farm Bar - Lakeview,565,4.2,$$,41.93643,-87.66141,1300 W Wellington Ave,Carnes,4.281260722614313
+beer_and_wine,"Beer, Wine & Spirits",sJOPkTGLi53eB46ykvDeRg,Farm Bar - Lakeview,565,4.2,$$,41.93643,-87.66141,1300 W Wellington Ave,Otro,4.281260722614313
+filipino,Filipino,xe4ZeL8Cv1IDPJDlsxO8cQ,pig & fire,8,5.0,,41.884037,-87.705742,135 N Kedzie Ave,Carnes,4.3829580109926045
+popuprestaurants,Pop-Up Restaurants,xe4ZeL8Cv1IDPJDlsxO8cQ,pig & fire,8,5.0,,41.884037,-87.705742,135 N Kedzie Ave,Otro,4.3829580109926045
+asianfusion,Asian Fusion,xe4ZeL8Cv1IDPJDlsxO8cQ,pig & fire,8,5.0,,41.884037,-87.705742,135 N Kedzie Ave,Vegetariano/Vegano,4.3829580109926045
+cajun,Cajun/Creole,LnVv3v3uYa7g9MzqzII6tA,Provare,509,4.3,$$$,41.89609753853198,-87.66587719325405,1523 W Chicago Ave,Otro,4.336216719112233
+italian,Italian,LnVv3v3uYa7g9MzqzII6tA,Provare,509,4.3,$$$,41.89609753853198,-87.66587719325405,1523 W Chicago Ave,Vegetariano/Vegano,4.336216719112233
+cocktailbars,Cocktail Bars,LnVv3v3uYa7g9MzqzII6tA,Provare,509,4.3,$$$,41.89609753853198,-87.66587719325405,1523 W Chicago Ave,Otro,4.336216719112233
+chinese,Chinese,QFg4CAuJRC98_GXVjyrRpA,Chengdu Bistro,68,4.5,,41.91020072350959,-87.682875841856,2211 W North Ave,Otro,4.388279347859583
+korean,Korean,DwJwTn1MMhkUk6umLeM5MQ,Daebak,94,4.1,$$$,41.90466,-87.66894,1266 N Milwaukee Ave,Carnes,4.329869814114887
+bbq,Barbeque,DwJwTn1MMhkUk6umLeM5MQ,Daebak,94,4.1,$$$,41.90466,-87.66894,1266 N Milwaukee Ave,Otro,4.329869814114887
+greek,Greek,LqTqsPaK1RO4CedIFXFJ2g,Yaya Mas Greek Kuzina,157,4.2,$$,41.91364611445397,-87.65307046473026,1755 N Sheffield Ave,Otro,4.331724002411328
+pizza,Pizza,LqTqsPaK1RO4CedIFXFJ2g,Yaya Mas Greek Kuzina,157,4.2,$$,41.91364611445397,-87.65307046473026,1755 N Sheffield Ave,Vegetariano/Vegano,4.331724002411328
+breakfast_brunch,Breakfast & Brunch,LqTqsPaK1RO4CedIFXFJ2g,Yaya Mas Greek Kuzina,157,4.2,$$,41.91364611445397,-87.65307046473026,1755 N Sheffield Ave,Carnes,4.331724002411328
+newamerican,New American,OHl34eI8EENNANB0fuQA4w,Porter Kitchen & Deck,227,4.1,$$,41.88527,-87.6385,150 N Riverside Plz,Carnes,4.287816601904048
+wine_bars,Wine Bars,OHl34eI8EENNANB0fuQA4w,Porter Kitchen & Deck,227,4.1,$$,41.88527,-87.6385,150 N Riverside Plz,Otro,4.287816601904048
+cocktailbars,Cocktail Bars,OHl34eI8EENNANB0fuQA4w,Porter Kitchen & Deck,227,4.1,$$,41.88527,-87.6385,150 N Riverside Plz,Otro,4.287816601904048
+japanese,Japanese,YY4NspX5UZfSRbfpKb-GMA,Sho,10,4.9,,41.91014424675168,-87.63441033661366,1533 N Wells St,Mariscos/Pescado,4.3834169991847896
+cafes,Cafes,OLLCYpaF_cWzrZ-Hd7FYMQ,Lardon,154,4.2,$$,41.921891836367266,-87.69749321372282,2200 N California Ave,Otro,4.3323282409545
+sandwiches,Sandwiches,OLLCYpaF_cWzrZ-Hd7FYMQ,Lardon,154,4.2,$$,41.921891836367266,-87.69749321372282,2200 N California Ave,Carnes,4.3323282409545
+wine_bars,Wine Bars,OLLCYpaF_cWzrZ-Hd7FYMQ,Lardon,154,4.2,$$,41.921891836367266,-87.69749321372282,2200 N California Ave,Otro,4.3323282409545
+italian,Italian,h3zEUwyZ9xX63ljpJzsQ5Q,Dēliz,63,4.4,,41.910701639679814,-87.67424031789,1840 W North Ave,Vegetariano/Vegano,4.37609710405727
+steak,Steakhouses,h3zEUwyZ9xX63ljpJzsQ5Q,Dēliz,63,4.4,,41.910701639679814,-87.67424031789,1840 W North Ave,Carnes,4.37609710405727
+cocktailbars,Cocktail Bars,h3zEUwyZ9xX63ljpJzsQ5Q,Dēliz,63,4.4,,41.910701639679814,-87.67424031789,1840 W North Ave,Otro,4.37609710405727
+sushi,Sushi Bars,QRNOVs9tD0z0JCVPuHqWtA,Ryota,61,4.4,$$,41.88148888423427,-87.65557439999999,1131 W Madison St,Otro,4.3760118887419654
+ramen,Ramen,QRNOVs9tD0z0JCVPuHqWtA,Ryota,61,4.4,$$,41.88148888423427,-87.65557439999999,1131 W Madison St,Mariscos/Pescado,4.3760118887419654
+british,British,eWEfgeuMkGjC-yeV7dXArw,Monarch & Lion,256,4.1,,41.891153,-87.61997400000001,302 E Illinois St,Otro,4.280611996804554
+fishnchips,Fish & Chips,eWEfgeuMkGjC-yeV7dXArw,Monarch & Lion,256,4.1,,41.891153,-87.61997400000001,302 E Illinois St,Otro,4.280611996804554
+indpak,Indian,eWEfgeuMkGjC-yeV7dXArw,Monarch & Lion,256,4.1,,41.891153,-87.61997400000001,302 E Illinois St,Carnes,4.280611996804554
+italian,Italian,rzeQrwEuv1lo_wu1oD_brA,Mirella’s Tavern,73,4.4,,41.90337419999999,-87.679574,2056 W Division St,Vegetariano/Vegano,4.376514257564124
+tradamerican,American,rzeQrwEuv1lo_wu1oD_brA,Mirella’s Tavern,73,4.4,,41.90337419999999,-87.679574,2056 W Division St,Carnes,4.376514257564124
+cocktailbars,Cocktail Bars,rzeQrwEuv1lo_wu1oD_brA,Mirella’s Tavern,73,4.4,,41.90337419999999,-87.679574,2056 W Division St,Otro,4.376514257564124
+comfortfood,Comfort Food,AKh0ytqcXv5mZztqnDQUjg,Ila's,55,4.9,,41.89000013759809,-87.62861532609016,15 W Hubbard St,Otro,4.425302107358997
+salad,Salad,AKh0ytqcXv5mZztqnDQUjg,Ila's,55,4.9,,41.89000013759809,-87.62861532609016,15 W Hubbard St,Vegetariano/Vegano,4.425302107358997
+cocktailbars,Cocktail Bars,AKh0ytqcXv5mZztqnDQUjg,Ila's,55,4.9,,41.89000013759809,-87.62861532609016,15 W Hubbard St,Otro,4.425302107358997
+cocktailbars,Cocktail Bars,T4j4q9Z3OFTTBA39Uv6lLA,Bad Habit,17,4.3,,41.918715,-87.689922,2047 N Milwaukee Ave,Otro,4.370682146197762
+burgers,Burgers,T4j4q9Z3OFTTBA39Uv6lLA,Bad Habit,17,4.3,,41.918715,-87.689922,2047 N Milwaukee Ave,Carnes,4.370682146197762
+french,French,_Cfa97PQmir4cBddanCkbQ,La Serre,183,4.2,$$$$,41.88699,-87.64848,307 N Green St,Otro,4.3267096187177785
+mediterranean,Mediterranean,_Cfa97PQmir4cBddanCkbQ,La Serre,183,4.2,$$$$,41.88699,-87.64848,307 N Green St,Vegetariano/Vegano,4.3267096187177785
+bars,Bars,YbLA3uRpvBzIf4oJ352ZVQ,Ada Street,614,4.3,$$$,41.9124416,-87.6620728,1664 N Ada St,Otro,4.332803114528046
+tradamerican,American,YbLA3uRpvBzIf4oJ352ZVQ,Ada Street,614,4.3,$$$,41.9124416,-87.6620728,1664 N Ada St,Carnes,4.332803114528046
+cocktailbars,Cocktail Bars,wMwa7p8kKhrZ5CtEL96RzQ,Bocaditos Mexican Cuisine,118,4.2,$$$,41.88177645153963,-87.6560734,1140 W Madison St,Otro,4.340036682175151
+mexican,Mexican,wMwa7p8kKhrZ5CtEL96RzQ,Bocaditos Mexican Cuisine,118,4.2,$$$,41.88177645153963,-87.6560734,1140 W Madison St,Carnes,4.340036682175151
+seafood,Seafood,wMwa7p8kKhrZ5CtEL96RzQ,Bocaditos Mexican Cuisine,118,4.2,$$$,41.88177645153963,-87.6560734,1140 W Madison St,Mariscos/Pescado,4.340036682175151
+greek,Greek,O5AWfmBUuOwhoGvslbNN5A,LÝRA,595,4.1,,41.8865229242723,-87.65015533563846,905 W Fulton Market,Otro,4.224696501903418
+mediterranean,Mediterranean,O5AWfmBUuOwhoGvslbNN5A,LÝRA,595,4.1,,41.8865229242723,-87.65015533563846,905 W Fulton Market,Vegetariano/Vegano,4.224696501903418
+cocktailbars,Cocktail Bars,O5AWfmBUuOwhoGvslbNN5A,LÝRA,595,4.1,,41.8865229242723,-87.65015533563846,905 W Fulton Market,Otro,4.224696501903418
+tradamerican,American,r2ocvnnPzntoJ2Fy7eNsdw,Lincoln Park Corner Kitchen,41,4.5,,41.921746,-87.664725,2200 N Clybourn Ave,Carnes,4.382703640636309
+breakfast_brunch,Breakfast & Brunch,r2ocvnnPzntoJ2Fy7eNsdw,Lincoln Park Corner Kitchen,41,4.5,,41.921746,-87.664725,2200 N Clybourn Ave,Carnes,4.382703640636309
+comfortfood,Comfort Food,r2ocvnnPzntoJ2Fy7eNsdw,Lincoln Park Corner Kitchen,41,4.5,,41.921746,-87.664725,2200 N Clybourn Ave,Otro,4.382703640636309
+newamerican,New American,wB6qg4tsqZAm7407SZmtsw,Class Act,11,4.5,,41.91343694309221,-87.67724079999999,1737 N Damen Ave,Carnes,4.3758173573077155
+cocktailbars,Cocktail Bars,wB6qg4tsqZAm7407SZmtsw,Class Act,11,4.5,,41.91343694309221,-87.67724079999999,1737 N Damen Ave,Otro,4.3758173573077155
+italian,Italian,yHp_qrNBnx6CmoN3RkdDLw,Mano A Mano,80,4.3,,41.92719,-87.70485,2534 N Milwaukee Ave,Vegetariano/Vegano,4.363004602731453
+wine_bars,Wine Bars,yHp_qrNBnx6CmoN3RkdDLw,Mano A Mano,80,4.3,,41.92719,-87.70485,2534 N Milwaukee Ave,Otro,4.363004602731453
+indpak,Indian,eTDiXThHbw1FYNSGoeGB-Q,Cumin - Lakeview,50,4.6,,41.93970291312647,-87.65574289999999,1039 W Belmont Ave,Carnes,4.393713944698623
+himalayan,Himalayan/Nepalese,eTDiXThHbw1FYNSGoeGB-Q,Cumin - Lakeview,50,4.6,,41.93970291312647,-87.65574289999999,1039 W Belmont Ave,Otro,4.393713944698623
+cocktailbars,Cocktail Bars,Drkh8SbqF5w1VLAeBAqJcA,Kennedy Rooftop,231,4.2,$$,41.9103888,-87.6672851666808,1551 W North Ave,Otro,4.318389424875845
+newamerican,New American,Drkh8SbqF5w1VLAeBAqJcA,Kennedy Rooftop,231,4.2,$$,41.9103888,-87.6672851666808,1551 W North Ave,Carnes,4.318389424875845
+peruvian,Peruvian,bmTC5TdAQh0s2y24nTS4bA,Kayao,131,4.4,,41.90541208020734,-87.63487429999999,1252 N Wells St,Carnes,4.378673010434617
+beerbar,Beer Bar,bmTC5TdAQh0s2y24nTS4bA,Kayao,131,4.4,,41.90541208020734,-87.63487429999999,1252 N Wells St,Otro,4.378673010434617
+cocktailbars,Cocktail Bars,bmTC5TdAQh0s2y24nTS4bA,Kayao,131,4.4,,41.90541208020734,-87.63487429999999,1252 N Wells St,Otro,4.378673010434617
+tradamerican,American,aW7sY8DcTKfBFaXIH5vQxQ,Lucy's,294,4.0,$$,41.90055,-87.69642,1043 N California Ave,Carnes,4.234940389904588
+laotian,Laotian,bQ1Lc_PEoC2s4kZJcxM43A,Lao Der,76,4.7,,41.95222,-87.717395,3922 N Elston Ave,Otro,4.416219912472644
+mexican,Mexican,0Zu5S3zJvLC1Ve7kGAttDQ,Bárbaro Taquería,222,4.5,$$,41.90997,-87.69074,2525 W North Ave,Carnes,4.412108960642996
+cocktailbars,Cocktail Bars,0Zu5S3zJvLC1Ve7kGAttDQ,Bárbaro Taquería,222,4.5,$$,41.90997,-87.69074,2525 W North Ave,Otro,4.412108960642996
+korean,Korean,uGrvtr88xUMU7RrKfXvCGg,jeong,224,4.6,$$$$,41.89637,-87.66477,1460 W Chicago Ave,Carnes,4.443290980088733
+newamerican,New American,uGrvtr88xUMU7RrKfXvCGg,jeong,224,4.6,$$$$,41.89637,-87.66477,1460 W Chicago Ave,Carnes,4.443290980088733
+tapasmallplates,Tapas/Small Plates,rRtJszPocMT8XoFO5nDE2A,The Western,5,4.8,,41.95965026446677,-87.68835159999999,4301 N Western Ave,Carnes,4.377312216998501
+beerbar,Beer Bar,rRtJszPocMT8XoFO5nDE2A,The Western,5,4.8,,41.95965026446677,-87.68835159999999,4301 N Western Ave,Otro,4.377312216998501
+cocktailbars,Cocktail Bars,rRtJszPocMT8XoFO5nDE2A,The Western,5,4.8,,41.95965026446677,-87.68835159999999,4301 N Western Ave,Otro,4.377312216998501
+mexican,Mexican,dKbk0C9z_mRXh24-0vIHqA,Mirra,141,4.3,,41.917959764150055,-87.67737831920385,1954 W Armitage Ave,Carnes,4.357008844905215
+indpak,Indian,dKbk0C9z_mRXh24-0vIHqA,Mirra,141,4.3,,41.917959764150055,-87.67737831920385,1954 W Armitage Ave,Carnes,4.357008844905215
+breakfast_brunch,Breakfast & Brunch,BG3_Mip98T1krk99s-0pRw,Ahuevo,21,4.8,,41.874556,-87.640358,520 W Harrison St,Carnes,4.39029303183156
+burgers,Burgers,BG3_Mip98T1krk99s-0pRw,Ahuevo,21,4.8,,41.874556,-87.640358,520 W Harrison St,Carnes,4.39029303183156
+sandwiches,Sandwiches,BG3_Mip98T1krk99s-0pRw,Ahuevo,21,4.8,,41.874556,-87.640358,520 W Harrison St,Carnes,4.39029303183156
+asianfusion,Asian Fusion,RNsldUTu1LKKcRZYPw3gjA,Kapitan,159,4.3,,41.92008,-87.66261,2142 N Clybourn Ave,Vegetariano/Vegano,4.355451698913874
+malaysian,Malaysian,RNsldUTu1LKKcRZYPw3gjA,Kapitan,159,4.3,,41.92008,-87.66261,2142 N Clybourn Ave,Otro,4.355451698913874
+singaporean,Singaporean,RNsldUTu1LKKcRZYPw3gjA,Kapitan,159,4.3,,41.92008,-87.66261,2142 N Clybourn Ave,Otro,4.355451698913874
+newamerican,New American,zm6Peew9j8YtowzUu4sQfA,The Whale Chicago,1078,4.2,$$,41.92555,-87.70112,2427 N Milwaukee Ave,Carnes,4.254843263361371
+breakfast_brunch,Breakfast & Brunch,zm6Peew9j8YtowzUu4sQfA,The Whale Chicago,1078,4.2,$$,41.92555,-87.70112,2427 N Milwaukee Ave,Carnes,4.254843263361371
+cocktailbars,Cocktail Bars,zm6Peew9j8YtowzUu4sQfA,The Whale Chicago,1078,4.2,$$,41.92555,-87.70112,2427 N Milwaukee Ave,Otro,4.254843263361371
+newamerican,New American,Ryv0LRKMXUAGVnpbxp_D8A,Fora,111,4.0,$$,41.88742,-87.65185,311 N Morgan St,Carnes,4.305307151529039
+cocktailbars,Cocktail Bars,Ryv0LRKMXUAGVnpbxp_D8A,Fora,111,4.0,$$,41.88742,-87.65185,311 N Morgan St,Otro,4.305307151529039
+wine_bars,Wine Bars,Ryv0LRKMXUAGVnpbxp_D8A,Fora,111,4.0,$$,41.88742,-87.65185,311 N Morgan St,Otro,4.305307151529039
+cocktailbars,Cocktail Bars,JgTf0nmG-nWiQmrHZ11-tg,Kindling Downtown Cookout & Cocktails,180,4.1,$$$,41.87923,-87.63541,202 S Franklin St,Otro,4.30079804350624
+desserts,Desserts,JgTf0nmG-nWiQmrHZ11-tg,Kindling Downtown Cookout & Cocktails,180,4.1,$$$,41.87923,-87.63541,202 S Franklin St,Otro,4.30079804350624
+tradamerican,American,JgTf0nmG-nWiQmrHZ11-tg,Kindling Downtown Cookout & Cocktails,180,4.1,$$$,41.87923,-87.63541,202 S Franklin St,Carnes,4.30079804350624
+newamerican,New American,p-a5uSlaIENNTmoYqOvTYA,DeNuccis,256,4.3,$$$,41.91993037383063,-87.6414504647255,503 W Dickens Ave,Carnes,4.348336864529422
+italian,Italian,p-a5uSlaIENNTmoYqOvTYA,DeNuccis,256,4.3,$$$,41.91993037383063,-87.6414504647255,503 W Dickens Ave,Vegetariano/Vegano,4.348336864529422
+supperclubs,Supper Clubs,32t_t04aDAMRkhNksU0xsg,Charlie Martin's,63,4.7,,41.895974,-87.631573,736 N Clark St,Otro,4.409667263915174
+italian,Italian,jKKFQGqgYBTQVx9P0hdb9w,The Radicle,9,4.3,,41.92730234228856,-87.70415615290403,2523 N Milwaukee Ave,Vegetariano/Vegano,4.371793064016194
+seafood,Seafood,jKKFQGqgYBTQVx9P0hdb9w,The Radicle,9,4.3,,41.92730234228856,-87.70415615290403,2523 N Milwaukee Ave,Mariscos/Pescado,4.371793064016194
+cocktailbars,Cocktail Bars,jKKFQGqgYBTQVx9P0hdb9w,The Radicle,9,4.3,,41.92730234228856,-87.70415615290403,2523 N Milwaukee Ave,Otro,4.371793064016194
+cocktailbars,Cocktail Bars,L0SpO9Eb6fHIZ5ljKpdAow,Queen Mary Tavern,156,4.4,$$,41.9028282165527,-87.6807403564453,2125 W Division St,Otro,4.379485776805248
+wine_bars,Wine Bars,L0SpO9Eb6fHIZ5ljKpdAow,Queen Mary Tavern,156,4.4,$$,41.9028282165527,-87.6807403564453,2125 W Division St,Otro,4.379485776805248
+seafood,Seafood,L0SpO9Eb6fHIZ5ljKpdAow,Queen Mary Tavern,156,4.4,$$,41.9028282165527,-87.6807403564453,2125 W Division St,Mariscos/Pescado,4.379485776805248
+ukrainian,Ukrainian,56HWQzYO2hLhREjlmq6tGg,Tryzub Ukrainian Kitchen,369,4.4,$$,41.8958059,-87.6819438,2201 W Chicago Ave,Otro,4.3845140041245605
+breakfast_brunch,Breakfast & Brunch,56HWQzYO2hLhREjlmq6tGg,Tryzub Ukrainian Kitchen,369,4.4,$$,41.8958059,-87.6819438,2201 W Chicago Ave,Carnes,4.3845140041245605
+venues,Venues & Event Spaces,56HWQzYO2hLhREjlmq6tGg,Tryzub Ukrainian Kitchen,369,4.4,$$,41.8958059,-87.6819438,2201 W Chicago Ave,Otro,4.3845140041245605
+newamerican,New American,HaX1xkisTWetyKUkuBAzzQ,Mother’s Ruin,137,4.2,$$,41.93495,-87.71647,2943 N Milwaukee Ave,Carnes,4.3358597638685135
+burgers,Burgers,HaX1xkisTWetyKUkuBAzzQ,Mother’s Ruin,137,4.2,$$,41.93495,-87.71647,2943 N Milwaukee Ave,Carnes,4.3358597638685135
+cocktailbars,Cocktail Bars,HaX1xkisTWetyKUkuBAzzQ,Mother’s Ruin,137,4.2,$$,41.93495,-87.71647,2943 N Milwaukee Ave,Otro,4.3358597638685135
+newamerican,New American,hBb2RcUVumohfY2kbGKvKQ,HIDE+SEEK,374,4.0,,41.884684,-87.648983,838 W Randolph St,Carnes,4.21343554872339
+cocktailbars,Cocktail Bars,hBb2RcUVumohfY2kbGKvKQ,HIDE+SEEK,374,4.0,,41.884684,-87.648983,838 W Randolph St,Otro,4.21343554872339
+breakfast_brunch,Breakfast & Brunch,hBb2RcUVumohfY2kbGKvKQ,HIDE+SEEK,374,4.0,,41.884684,-87.648983,838 W Randolph St,Carnes,4.21343554872339
+burgers,Burgers,wjKVqZA4xhk2VQmPvY8QOw,Smash Jibarito,31,4.4,,41.90314374863983,-87.69087952573605,2534 W Division St,Carnes,4.374656628218912
+puertorican,Puerto Rican,wjKVqZA4xhk2VQmPvY8QOw,Smash Jibarito,31,4.4,,41.90314374863983,-87.69087952573605,2534 W Division St,Otro,4.374656628218912
+southern,Southern,mOFO7fl4Fmw4IIoHNSGxjw,Cleo's,8,4.6,,41.933096147016016,-87.65971396118402,2826 N Lincoln Ave,Otro,4.376658798394179
+wine_bars,Wine Bars,xoMP81mJ2ZtS87pZ3SmvQg,Pompette,90,4.3,,41.917622217230715,-87.67786379903555,1960 N Damen Ave,Otro,4.361936728108886
+cafes,Cafes,xoMP81mJ2ZtS87pZ3SmvQg,Pompette,90,4.3,,41.917622217230715,-87.67786379903555,1960 N Damen Ave,Otro,4.361936728108886
+hawaiian,Hawaiian,WKnFuCJs6k2R4jvClolFBg,Hawaiian Bros Island Grill,162,3.9,,41.94555723982787,-87.70954454435207,3517 N Spaulding Ave,Otro,4.2573152108523304
+cuban,Cuban,hP2L8k60R9er1VnzLHSlEA,Bayan Ko Diner,119,4.3,,41.9616342616918,-87.67544956204071,1820 W Montrose Ave,Otro,4.359035007405885
+filipino,Filipino,hP2L8k60R9er1VnzLHSlEA,Bayan Ko Diner,119,4.3,,41.9616342616918,-87.67544956204071,1820 W Montrose Ave,Carnes,4.359035007405885
+indpak,Indian,lrwkR8IVohWQM551BUYcZQ,Superkhana International,236,4.3,$$,41.9318,-87.70481,3059 W Diversey Ave,Carnes,4.349650366282939
+cajun,Cajun/Creole,yR8gj8GjnfSaGFE8ZWq9cw,Blue Bayou,24,3.5,,41.94996596605908,-87.66444604843855,3734 N Southport Ave,Otro,4.333096697679853
+tradamerican,American,2yhOI2wUzocjbnwcffvEsw,Chef Art Smith's Reunion,286,4.0,$$,41.891079151313114,-87.61091017398391,700 E Grand Ave,Carnes,4.237331640692421
+southern,Southern,2yhOI2wUzocjbnwcffvEsw,Chef Art Smith's Reunion,286,4.0,$$,41.891079151313114,-87.61091017398391,700 E Grand Ave,Otro,4.237331640692421
+chickenshop,Chicken Shop,2yhOI2wUzocjbnwcffvEsw,Chef Art Smith's Reunion,286,4.0,$$,41.891079151313114,-87.61091017398391,700 E Grand Ave,Otro,4.237331640692421
+sushi,Sushi Bars,NMhq1mBTxwmvxzmUB9BbrA,Taste of Japan,31,4.7,,41.886037,-87.633631,201 N Wells St,Otro,4.392170752512698
+japacurry,Japanese Curry,NMhq1mBTxwmvxzmUB9BbrA,Taste of Japan,31,4.7,,41.886037,-87.633631,201 N Wells St,Otro,4.392170752512698
+ramen,Ramen,NMhq1mBTxwmvxzmUB9BbrA,Taste of Japan,31,4.7,,41.886037,-87.633631,201 N Wells St,Mariscos/Pescado,4.392170752512698
+steak,Steakhouses,EFbXRCyUZnB-BMPP_LxkVQ,Susu,4,4.3,,41.88484,-87.64487,652 W Randolph St,Carnes,4.372505296794133
+mediterranean,Mediterranean,EFbXRCyUZnB-BMPP_LxkVQ,Susu,4,4.3,,41.88484,-87.64487,652 W Randolph St,Vegetariano/Vegano,4.372505296794133
+asianfusion,Asian Fusion,EFbXRCyUZnB-BMPP_LxkVQ,Susu,4,4.3,,41.88484,-87.64487,652 W Randolph St,Vegetariano/Vegano,4.372505296794133
+diners,Diners,R7d-mz-fVtheQJvZE7sXhA,Little Goat Diner,309,3.6,$$,41.942313,-87.663544,3325 N Southport Ave,Otro,4.077803052638125
+breakfast_brunch,Breakfast & Brunch,R7d-mz-fVtheQJvZE7sXhA,Little Goat Diner,309,3.6,$$,41.942313,-87.663544,3325 N Southport Ave,Carnes,4.077803052638125
+newamerican,New American,R7d-mz-fVtheQJvZE7sXhA,Little Goat Diner,309,3.6,$$,41.942313,-87.663544,3325 N Southport Ave,Carnes,4.077803052638125
+ukrainian,Ukrainian,olWKKjgEfAwx-n_P0xHMuQ,Anelya,73,4.2,,41.94420561608926,-87.70565751940012,3472 N Elston Ave,Otro,4.351034327372152
+bars,Bars,olWKKjgEfAwx-n_P0xHMuQ,Anelya,73,4.2,,41.94420561608926,-87.70565751940012,3472 N Elston Ave,Otro,4.351034327372152
+comfortfood,Comfort Food,olWKKjgEfAwx-n_P0xHMuQ,Anelya,73,4.2,,41.94420561608926,-87.70565751940012,3472 N Elston Ave,Otro,4.351034327372152
+italian,Italian,SXRUKDBRsBoVKmtp8aU6qw,Zarella Pizzeria & Taverna,229,4.5,,41.89176,-87.63384,531 N Wells St.,Vegetariano/Vegano,4.412952907522967
+pizza,Pizza,SXRUKDBRsBoVKmtp8aU6qw,Zarella Pizzeria & Taverna,229,4.5,,41.89176,-87.63384,531 N Wells St.,Vegetariano/Vegano,4.412952907522967
+brasseries,Brasseries,0B0drAinOYAUbNA1soK6zA,Copper Club,36,4.1,,41.882255359057474,-87.63013837565235,70 W Madison St,Otro,4.3547437865377665
+breakfast_brunch,Breakfast & Brunch,0B0drAinOYAUbNA1soK6zA,Copper Club,36,4.1,,41.882255359057474,-87.63013837565235,70 W Madison St,Carnes,4.3547437865377665
+japanese,Japanese,eCTlRnC9FOtNkmw-Q2DTcw,Itoko,254,4.2,$$$$,41.94235,-87.6635,3325 N Southport Ave,Mariscos/Pescado,4.314778076371675
+sushi,Sushi Bars,eCTlRnC9FOtNkmw-Q2DTcw,Itoko,254,4.2,$$$$,41.94235,-87.6635,3325 N Southport Ave,Otro,4.314778076371675
+bars,Bars,Ki9_2R3o8kGtOBfJh1nrWg,Hiro Izakaya,45,4.1,,41.89629251797387,-87.66753327101469,1600 W Chicago Ave,Otro,4.350537008411456
+izakaya,Izakaya,Ki9_2R3o8kGtOBfJh1nrWg,Hiro Izakaya,45,4.1,,41.89629251797387,-87.66753327101469,1600 W Chicago Ave,Mariscos/Pescado,4.350537008411456
+mexican,Mexican,dNahrgb_2WkgA4ZhONEHuA,Botanero,32,4.4,,41.907463476993115,-87.6672637090087,1413 N Ashland Ave,Carnes,4.374704266135795
+lounges,Lounges,dNahrgb_2WkgA4ZhONEHuA,Botanero,32,4.4,,41.907463476993115,-87.6672637090087,1413 N Ashland Ave,Otro,4.374704266135795
+cocktailbars,Cocktail Bars,dNahrgb_2WkgA4ZhONEHuA,Botanero,32,4.4,,41.907463476993115,-87.6672637090087,1413 N Ashland Ave,Otro,4.374704266135795
+cafes,Cafes,Yc_VAHPXcl_h2CeEr_XfkQ,Bolivar & Lincoln Venezuelan Cafe,289,4.8,,41.943218,-87.65401,3349 N Sheffield Ave,Otro,4.529458389840612
+venezuelan,Venezuelan,Yc_VAHPXcl_h2CeEr_XfkQ,Bolivar & Lincoln Venezuelan Cafe,289,4.8,,41.943218,-87.65401,3349 N Sheffield Ave,Otro,4.529458389840612
+mediterranean,Mediterranean,dJ5SLaXE_gD8XlRiv6r42g,Cira,601,4.1,$$,41.885893,-87.649087,200 N Green St,Vegetariano/Vegano,4.224016956933917
+turkish,Turkish,dJ5SLaXE_gD8XlRiv6r42g,Cira,601,4.1,$$,41.885893,-87.649087,200 N Green St,Carnes,4.224016956933917
+breakfast_brunch,Breakfast & Brunch,dJ5SLaXE_gD8XlRiv6r42g,Cira,601,4.1,$$,41.885893,-87.649087,200 N Green St,Carnes,4.224016956933917
+italian,Italian,aYZRtERMrFsmTIWXkl9bhw,Acerra Italian Kitchen & Bar,28,4.3,,41.910337,-87.680064,2101 W North Ave,Vegetariano/Vegano,4.369209601485309
+bars,Bars,aYZRtERMrFsmTIWXkl9bhw,Acerra Italian Kitchen & Bar,28,4.3,,41.910337,-87.680064,2101 W North Ave,Otro,4.369209601485309
+cocktailbars,Cocktail Bars,XWodOV8dW4WlK2XB3j6JnA,Chef’s Special Cocktail Bar,348,4.4,,41.921735,-87.68721,2165 N Western Ave,Otro,4.384130506585192
+chinese,Chinese,XWodOV8dW4WlK2XB3j6JnA,Chef’s Special Cocktail Bar,348,4.4,,41.921735,-87.68721,2165 N Western Ave,Otro,4.384130506585192
+seafood,Seafood,XWodOV8dW4WlK2XB3j6JnA,Chef’s Special Cocktail Bar,348,4.4,,41.921735,-87.68721,2165 N Western Ave,Mariscos/Pescado,4.384130506585192
+steak,Steakhouses,RknsNPtkyrnOZDb3fwCRow,Trino,36,4.7,,41.88484755482354,-87.64722123742104,738 W Randolph St,Carnes,4.3950422940004525
+spanish,Spanish,Ld11LQCqA5c6Ic7ezUDlSA,Asador Bastian,159,4.0,$$$$,41.89410401536601,-87.63488701719666,214 W Erie St,Otro,4.283069301341795
+bars,Bars,Ld11LQCqA5c6Ic7ezUDlSA,Asador Bastian,159,4.0,$$$$,41.89410401536601,-87.63488701719666,214 W Erie St,Otro,4.283069301341795
+steak,Steakhouses,Ld11LQCqA5c6Ic7ezUDlSA,Asador Bastian,159,4.0,$$$$,41.89410401536601,-87.63488701719666,214 W Erie St,Carnes,4.283069301341795
+modern_european,Modern European,GvU2TIDK0deL_xbPfIkezA,Chicago Diplomat Cafe,220,4.3,$$,41.9385,-87.66752,3134 N Lincoln Ave,Otro,4.350753707755893
+cafes,Cafes,GvU2TIDK0deL_xbPfIkezA,Chicago Diplomat Cafe,220,4.3,$$,41.9385,-87.66752,3134 N Lincoln Ave,Otro,4.350753707755893
+georgian,Georgian,GvU2TIDK0deL_xbPfIkezA,Chicago Diplomat Cafe,220,4.3,$$,41.9385,-87.66752,3134 N Lincoln Ave,Otro,4.350753707755893
+italian,Italian,zvLywoR212uaPkXU6Tp8LQ,Dimmi Dimmi Corner Italian,82,4.5,,41.918205820988454,-87.65593499304804,1112 W Armitage Ave,Vegetariano/Vegano,4.390966786227221
+bars,Bars,zvLywoR212uaPkXU6Tp8LQ,Dimmi Dimmi Corner Italian,82,4.5,,41.918205820988454,-87.65593499304804,1112 W Armitage Ave,Otro,4.390966786227221
+pizza,Pizza,zvLywoR212uaPkXU6Tp8LQ,Dimmi Dimmi Corner Italian,82,4.5,,41.918205820988454,-87.65593499304804,1112 W Armitage Ave,Vegetariano/Vegano,4.390966786227221
+ramen,Ramen,lgjRFg3M-1N416W41DHsTQ,Ramen Wasabi,2296,4.2,$$,41.9195063,-87.6915015,2101 N Milwaukee Ave,Mariscos/Pescado,4.230952313871331
+tapasmallplates,Tapas/Small Plates,lgjRFg3M-1N416W41DHsTQ,Ramen Wasabi,2296,4.2,$$,41.9195063,-87.6915015,2101 N Milwaukee Ave,Carnes,4.230952313871331
+izakaya,Izakaya,lgjRFg3M-1N416W41DHsTQ,Ramen Wasabi,2296,4.2,$$,41.9195063,-87.6915015,2101 N Milwaukee Ave,Mariscos/Pescado,4.230952313871331
+sportsbars,Sports Bars,wSp2LIIE8CKszRtivUi9FA,Oso & The Bull,22,4.8,,41.854847657558665,-87.66353219999999,2009 S Laflin,Otro,4.3910779110809255
+chicken_wings,Chicken Wings,wSp2LIIE8CKszRtivUi9FA,Oso & The Bull,22,4.8,,41.854847657558665,-87.66353219999999,2009 S Laflin,Otro,4.3910779110809255
+tradamerican,American,wSp2LIIE8CKszRtivUi9FA,Oso & The Bull,22,4.8,,41.854847657558665,-87.66353219999999,2009 S Laflin,Carnes,4.3910779110809255
+french,French,Uf1PX96VvJdx3o1-s1FQhA,Obelix,264,4.2,$$$$,41.8948501,-87.6386649,700 N Sedgwick St,Otro,4.313275745529113
+wine_bars,Wine Bars,Uf1PX96VvJdx3o1-s1FQhA,Obelix,264,4.2,$$$$,41.8948501,-87.6386649,700 N Sedgwick St,Otro,4.313275745529113
+mediterranean,Mediterranean,6vkSLiopzNspRfS7SnTz9Q,Galata Mediterranean Grill,19,5.0,,41.94299,-87.65288,3345 N Clark St,Vegetariano/Vegano,4.396035972223975
+indpak,Indian,YdLvdRgc4cZXpbxJu5jtfg,Rasa Indian Cuisine And Bar,7,4.7,,41.93150467297976,-87.7110773,2763 N Milwaukee Ave,Carnes,4.377598953815075
+wine_bars,Wine Bars,zDBpKDT-vMHoHtBxOTkqiA,Willow Room,428,4.2,$$,41.9139586307373,-87.6485445788551,1800 N Halsted St,Otro,4.293257187051986
+newamerican,New American,zDBpKDT-vMHoHtBxOTkqiA,Willow Room,428,4.2,$$,41.9139586307373,-87.6485445788551,1800 N Halsted St,Carnes,4.293257187051986
+cocktailbars,Cocktail Bars,zDBpKDT-vMHoHtBxOTkqiA,Willow Room,428,4.2,$$,41.9139586307373,-87.6485445788551,1800 N Halsted St,Otro,4.293257187051986
+greek,Greek,qUhMEd8oDAwGqBEF9mNKFQ,Andros Taverna,437,4.2,,41.92733834914246,-87.7049751842139,2542 N Milwaukee,Otro,4.292361440324699
+mediterranean,Mediterranean,qUhMEd8oDAwGqBEF9mNKFQ,Andros Taverna,437,4.2,,41.92733834914246,-87.7049751842139,2542 N Milwaukee,Vegetariano/Vegano,4.292361440324699
+seafood,Seafood,qUhMEd8oDAwGqBEF9mNKFQ,Andros Taverna,437,4.2,,41.92733834914246,-87.7049751842139,2542 N Milwaukee,Mariscos/Pescado,4.292361440324699
+italian,Italian,tzP7xNT7OokI6JKgtINTlA,Antico,298,4.5,$$$,41.91746,-87.68281,1946 N Leavitt St,Vegetariano/Vegano,4.420479535819853
+salad,Salad,0o0OGLHAWMfDXNuu4gQ58w,Avaspi,96,4.8,,41.93998824212478,-87.66121234241837,1258 W Belmont Ave,Vegetariano/Vegano,4.441850116752086
+cocktailbars,Cocktail Bars,0o0OGLHAWMfDXNuu4gQ58w,Avaspi,96,4.8,,41.93998824212478,-87.66121234241837,1258 W Belmont Ave,Otro,4.441850116752086
+mediterranean,Mediterranean,0o0OGLHAWMfDXNuu4gQ58w,Avaspi,96,4.8,,41.93998824212478,-87.66121234241837,1258 W Belmont Ave,Vegetariano/Vegano,4.441850116752086
+pizza,Pizza,b04EoiyFImaaSL7tqv3L3Q,Milly’s Pizza In The Pan,207,4.6,$$,41.89872265254573,-87.6670329,925 N Ashland Ave,Vegetariano/Vegano,4.43952287069907
